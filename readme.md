@@ -2,7 +2,7 @@
 # Auto Set Featured Image
 
 **Version:** 1.2  
-**Autor:** Dein Name  
+**Autor:** TorbenB  
 **Beschreibung:** Dieses Plugin setzt automatisch das erste Bild eines Beitrags oder einer Seite als Beitragsbild, falls kein Beitragsbild gesetzt wurde. Zusätzlich ermöglicht es das manuelle Durchsuchen aller bestehenden Beiträge und Seiten, um für diese das erste Bild im Inhalt als Beitragsbild festzulegen.
 
 ## Funktionen
